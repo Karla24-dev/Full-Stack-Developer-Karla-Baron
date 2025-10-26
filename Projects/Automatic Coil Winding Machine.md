@@ -34,6 +34,9 @@ The system demonstrates mechanical precision, stable control, and effective wind
 
 <img width="553" height="736" alt="image" src="https://github.com/user-attachments/assets/30cb3e6e-182c-4f9c-b2a0-f61eb57004f7" />  
 
+<img width="336" height="734" alt="image" src="https://github.com/user-attachments/assets/add4f266-ffc6-4d53-b007-c824752d4adf" />
+
+
 [Watch full video](https://github.com/user-attachments/assets/15f77aad-8097-4b19-a1b3-b7d8e89cd3fc)
 
 ## Contact
