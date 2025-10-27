@@ -43,6 +43,7 @@ It demonstrates the real-time operation of conveyors, filling stations, and auto
 <img width="177" height="142" alt="image" src="https://github.com/user-attachments/assets/ee2c1704-e811-409a-b92a-93f510ba549e" />
 
 <img width="179" height="133" alt="image" src="https://github.com/user-attachments/assets/1f6ecfea-184e-4801-8b43-1d87413c3702" />
+<img width="265" height="443" alt="image" src="https://github.com/user-attachments/assets/03ff7365-7ee3-4b96-8e30-6cce61428220" />
 
 
 ## Contact
