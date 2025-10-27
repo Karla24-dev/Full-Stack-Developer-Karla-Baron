@@ -30,9 +30,6 @@ The device is lightweight, accessible, and adaptable to different hand sizes.
 
 https://github.com/user-attachments/assets/d6aac03a-1741-4bd1-92b8-0ec2094d5e8a
 
-
-![Prototype of the robotic orthosis](https://github.com/user-attachments/assets/d6aac03a-1741-4bd1-92b8-0ec2094d5e8a)
-
 ## Contact
 **Karla Barón**  
 **Email:** karla.baron.39@gmail.com  
